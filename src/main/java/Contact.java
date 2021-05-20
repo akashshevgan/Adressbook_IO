@@ -6,7 +6,6 @@ class Contact {
     Integer phoneNumber;
     String email;
 
-
     public String getCity() {
         return city;
     }
